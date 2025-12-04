@@ -3,10 +3,6 @@
 A Full-Stack Authentication System built using Node.js, Express.js, MongoDB, and JWT.
 It provides secure user registration, login, and session management with cookies and tokens — just like modern web apps.
 
-🚀 Live Demo
-
-🔗 https://node-express-jwt-auth-production.up.railway.app
-
 ✨ Features
 🔐 User Authentication – Register, Login, and Logout functionality
 🍪 JWT + Cookies – Secure authentication using JSON Web Tokens
